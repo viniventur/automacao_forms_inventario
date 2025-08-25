@@ -1,0 +1,1 @@
+# Script de preenchimento de Google Forms com base no texto da pergunta

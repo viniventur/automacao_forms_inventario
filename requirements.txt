@@ -1,0 +1,8 @@
+pandas
+openpyxl
+streamlit
+pywin32
+Win32Security
+selenium==4.27.1
+python-dotenv==1.0.1
+webdriver-manager==4.0.2
